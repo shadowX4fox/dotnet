@@ -1,0 +1,8 @@
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\bin\local\Debug\netstandard2.0\utils.deps.json
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\bin\local\Debug\netstandard2.0\utils.dll
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\bin\local\Debug\netstandard2.0\utils.pdb
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Debug\netstandard2.0\utils.csproj.CoreCompileInputs.cache
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Debug\netstandard2.0\utils.AssemblyInfoInputs.cache
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Debug\netstandard2.0\utils.AssemblyInfo.cs
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Debug\netstandard2.0\utils.dll
+C:\Users\Shadowfox\Downloads\dotnet-docker-master\samples\dotnetapp\utils\obj\local\Debug\netstandard2.0\utils.pdb
